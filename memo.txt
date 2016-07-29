@@ -7,3 +7,5 @@ Project goal: website for calculation and visualisation of non paid economic wor
 Project design: artful uploads of visualisations of personal stories
 Project techs: upload, calculations, simple statistics
 Project promotion: non governmental organisations, social media, newspapers
+
+Project FAQ:
