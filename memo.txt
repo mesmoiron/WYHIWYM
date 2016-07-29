@@ -9,3 +9,4 @@ Project techs: upload, calculations, simple statistics
 Project promotion: non governmental organisations, social media, newspapers
 
 Project FAQ:
+- contact info:
