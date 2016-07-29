@@ -1,0 +1,9 @@
+From: mesmoiron (Hèlen Grives)
+To: Project Calc WYHIWYM
+
+User story:
+
+Project goal: website for calculation and visualisation of non paid economic work contributions.
+Project design: artful uploads of visualisations of personal stories
+Project techs: upload, calculations, simple statistics
+Project promotion: non governmental organisations, social media, newspapers
